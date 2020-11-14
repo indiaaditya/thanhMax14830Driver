@@ -1548,39 +1548,3 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alexander Shiyan <shc_work@mail.ru>");
 MODULE_DESCRIPTION("MAX310X serial driver");
 
-linux
-Filter tags
-Filter tags
-Projects
-Versions
-v5
- v5.10
- v5.9
- v5.8
- v5.7
- v5.6
- v5.5
- v5.4
-v5.4.77
-v5.4.76
-v5.4.75
-v5.4.74
-v5.4.73
-v5.4.72
-v5.4.71
-v5.4.70
-v5.4.69
-v5.4.68
-v5.4.67
-v5.4.66
-v5.4.65
-v5.4.64
-v5.4.63
-v5.4.62
-v5.4.61
-C:wq
-
-C
-:wq
-C
-v5.4.60
